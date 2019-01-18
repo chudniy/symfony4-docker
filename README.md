@@ -1,7 +1,7 @@
 # symfony4-docker
 Ready to use  Symfony 4.2 project with Docker environment (php-fpm, mysql, nginx, adminer)
 
-## Directoty structure:
+## Directory structure:
 ----------------------------------------------------------------------------------------------------------
 - project-root/
     - docker/
